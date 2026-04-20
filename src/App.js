@@ -726,7 +726,7 @@ function Hero() {
             color:"#5e6685", maxWidth:560, lineHeight:1.9,
           }}>
             A passionate <strong style={{color:"#e8ecff"}}>MERN Stack Developer</strong> and{" "}
-            <strong style={{color:"#e8ecff"}}>AI Builder</strong> from VIT University, crafting immersive web experiences and intelligent systems that solve real problems beautifully.
+            <strong style={{color:"#e8ecff"}}>AI Builder</strong> from ESEC College, crafting immersive web experiences and intelligent systems that solve real problems beautifully.
           </p>
  
           {/* CTAs */}
@@ -903,7 +903,7 @@ function About() {
  
             <div style={{ marginTop:"1.5rem" }}>
               {[
-                <>Hey! I'm <strong style={{color:"#fff"}}>Akshaya Y</strong> — a <strong style={{color:"#ff4f6e"}}>MERN Stack Developer</strong> and <strong style={{color:"#ff4f6e"}}>AI Builder</strong> from VIT University, Chennai. I build things that are not just functional, but beautiful and impactful.</>,
+                <>Hey! I'm <strong style={{color:"#fff"}}>Akshaya Y</strong> — a <strong style={{color:"#ff4f6e"}}>MERN Stack Developer</strong> and <strong style={{color:"#ff4f6e"}}>AI Builder</strong> from ESEC College, Erode. I build things that are not just functional, but beautiful and impactful.</>,
                 <>My award-winning project <strong style={{color:"#fff"}}>HydroSmart</strong> — a smart water management webpage — earned me the <strong style={{color:"#ffd166"}}>2nd Prize at KPR Institute's Digi Venture competition</strong>. I also built an <strong style={{color:"#fff"}}>AI-Based Electrical Fire Prevention System</strong> that uses machine learning to predict fire risks from electrical patterns.</>,
                 <>I'm passionate about the <strong style={{color:"#fff"}}>intersection of AI and Frontend</strong> — making powerful technology feel human, accessible, and visually stunning. Every single day I'm building, learning, and growing toward full-stack mastery.</>,
               ].map((p, i) => (
@@ -1612,7 +1612,7 @@ function Footer() {
         <span style={{ background:"linear-gradient(135deg,#ff4f6e,#ffd166)", WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent", backgroundClip:"text", fontWeight:700 }}>
           Akshaya Y
         </span>
-        {" "}— Crafted with passion, code & caffeine ☕ · Chennai, India 🇮🇳
+        {" "}— Crafted with passion, code & caffeine ☕ · Tiruppur, India 🇮🇳
       </div>
       <div style={{ display:"flex", alignItems:"center", gap:"1.2rem" }}>
         {[["Back to top ↑","#hero"],["GitHub",LINKS.github],["LinkedIn",LINKS.linkedin]].map(([l,h])=>(
